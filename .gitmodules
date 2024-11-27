@@ -1,0 +1,16 @@
+[submodule "ext/SDL"]
+	path = ext/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "ext/SDL_shadercross"]
+	path = ext/SDL_shadercross
+	url = https://github.com/libsdl-org/SDL_shadercross.git
+[submodule "ext/SDL_net"]
+	path = ext/SDL_net
+	url = https://github.com/libsdl-org/SDL_net.git
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "ext/implot"]
+	path = ext/implot
+	url = https://github.com/epezent/implot.git
